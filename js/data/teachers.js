@@ -1,4 +1,34 @@
 window.TEACHERS = [
-  { id: "T-2026-001", name: "Prof. Carla Mendoza", department: "College of Information Technology", email: "carla.mendoza@school.edu", contact: "+63 917 800 1001", assignedClassIds: ["CLS-101", "CLS-103"] },
-  { id: "T-2026-002", name: "Prof. Daniel Flores", department: "College of Information Technology", email: "daniel.flores@school.edu", contact: "+63 917 800 1002", assignedClassIds: ["CLS-102", "CLS-104", "CLS-105"] }
+    {
+        id: "T001",
+        name: "Prof. Alan Turing",
+        department: "Mathematics & Physics",
+        email: "aturing@school.edu",
+        contact: "555-0101",
+        assignedClassIds: ["C2", "C4", "C10"],
+    },
+    {
+        id: "T002",
+        name: "Dr. Grace Hopper",
+        department: "Computer Science",
+        email: "ghopper@school.edu",
+        contact: "555-0102",
+        assignedClassIds: ["C1", "C8"],
+    },
+    {
+        id: "T003",
+        name: "Ms. Maya Angelou",
+        department: "Humanities & Arts",
+        email: "mangelou@school.edu",
+        contact: "555-0103",
+        assignedClassIds: ["C3", "C5", "C9"],
+    },
+    {
+        id: "T004",
+        name: "Dr. Marie Curie",
+        department: "Natural Sciences",
+        email: "mcurie@school.edu",
+        contact: "555-0104",
+        assignedClassIds: ["C6", "C7"],
+    },
 ];
